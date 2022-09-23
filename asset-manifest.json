@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.9202bb2d.chunk.css",
-    "main.js": "/static/js/main.71989c02.chunk.js",
-    "main.js.map": "/static/js/main.71989c02.chunk.js.map",
+    "main.js": "/static/js/main.65a89adb.chunk.js",
+    "main.js.map": "/static/js/main.65a89adb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.028ed31b.js",
     "runtime-main.js.map": "/static/js/runtime-main.028ed31b.js.map",
     "static/css/2.c4e73993.chunk.css": "/static/css/2.c4e73993.chunk.css",
@@ -12,14 +12,13 @@
     "static/css/2.c4e73993.chunk.css.map": "/static/css/2.c4e73993.chunk.css.map",
     "static/css/main.9202bb2d.chunk.css.map": "/static/css/main.9202bb2d.chunk.css.map",
     "static/js/2.d963c89f.chunk.js.LICENSE.txt": "/static/js/2.d963c89f.chunk.js.LICENSE.txt",
-    "static/media/hfri.f12d5bdb.png": "/static/media/hfri.f12d5bdb.png",
-    "static/media/marina.bff11677.jpg": "/static/media/marina.bff11677.jpg"
+    "static/media/CyprusCoral_Beach.b0f84bf6.jpeg": "/static/media/CyprusCoral_Beach.b0f84bf6.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.028ed31b.js",
     "static/css/2.c4e73993.chunk.css",
     "static/js/2.d963c89f.chunk.js",
     "static/css/main.9202bb2d.chunk.css",
-    "static/js/main.71989c02.chunk.js"
+    "static/js/main.65a89adb.chunk.js"
   ]
 }
